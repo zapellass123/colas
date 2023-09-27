@@ -1,7 +1,8 @@
-# Frestea Auto Claim with Gsuite User
+# Colas Auto Claim with Gsuite User
 How to use
 - npm install
 - node index.js
+  
 # DON'T FORGET TO CREATE FILE gsuite.txt
 email|password
 
