@@ -1,8 +1,8 @@
 # Coca-Cola Auto Claim
 
-NPM INSTALL
-NODE INDEX.JS
+- NPM INSTALL
+- NODE INDEX.JS
 
 # Requirement
-gsuite.txt
-screenshot Folder
+- gsuite.txt
+- screenshot Folder
